@@ -11,8 +11,8 @@
   "author": "Martin Adamek",
   "license": "MIT",
   "dependencies": {
-    "@mikro-orm/core": "next",
-    "@mikro-orm/sqlite": "next",
+    "@mikro-orm/core": "6.5.0",
+    "@mikro-orm/sqlite": "6.5.0",
     "reflect-metadata": "^0.1.13"
   },
   "devDependencies": {
