@@ -4,3 +4,5 @@ sqlite.db
 dist
 temp
 package-lock.json
+.claude
+CLAUDE.md
