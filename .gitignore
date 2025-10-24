@@ -4,3 +4,14 @@ sqlite.db
 dist
 temp
 package-lock.json
+
+
+# Agents
+CLAUDE.md
+GEMINI.md
+AGENT.md
+AGENTS.md
+.cursor/
+.github/copilot-instructions.md
+.windsurfrules
+.claude
